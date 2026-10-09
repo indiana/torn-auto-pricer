@@ -4,6 +4,7 @@
 // @version      1.4
 // @description  Automatically fetches lowest, median, and maximum market prices via Torn API v2, sets the lowest price, and displays a tooltip hint.
 // @author       Rednels
+// @license      MIT
 // @match        https://www.torn.com/page.php?sid=ItemMarket*
 // @grant        GM_getValue
 // @grant        GM_setValue
